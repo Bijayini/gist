@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-666615213 home-page\\">
+    <Link to=\\"/gist-list\\" replace={false}>
+      <BodyCopy variant=\\"extra-bold\\" xs=\\"x-large\\" xm=\\"x-large\\" xl=\\"x-large\\" color=\\"grey1\\" className=\\"\\" uppercase={false} styles={false}>
+        Welcome to Gist List
+          →
+      </BodyCopy>
+    </Link>
+  </div>
+  <JSXStyle id=\\"666615213\\">
+    .home-page.jsx-666615213{text-align:center;margin-top:200px;}
+  </JSXStyle>
+</Fragment>"
+`;

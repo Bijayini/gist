@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should match with snapshot 1`] = `
+"<Fragment>
+  <header className=\\"jsx-3197027717 header\\">
+    <Link to=\\"/\\" replace={false}>
+      <BodyCopy variant=\\"extra-bold\\" xs=\\"x-large\\" xm=\\"x-large\\" xl=\\"x-large\\" color=\\"white\\" className=\\"\\" uppercase={false} styles={false}>
+        GitHub
+         
+      </BodyCopy>
+      <BodyCopy variant=\\"regular\\" xs=\\"x-large\\" xm=\\"x-large\\" xl=\\"x-large\\" color=\\"white\\" className=\\"\\" uppercase={false} styles={false}>
+        Gist
+      </BodyCopy>
+    </Link>
+  </header>
+  <JSXStyle id=\\"1560694114\\" dynamic={{...}}>
+    .header.__jsx-style-dynamic-selector{background:#cc1c5d;padding:20px;}
+  </JSXStyle>
+</Fragment>"
+`;

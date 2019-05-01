@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UserInfo /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-413917400 gist-details\\">
+    <div className=\\"jsx-413917400 bio\\">
+      <img src=\\"some image\\" alt=\\"some owner\\" className=\\"jsx-413917400\\" />
+    </div>
+    <div className=\\"jsx-413917400 details\\">
+      <BodyCopy variant=\\"extra-bold\\" xs=\\"x-large\\" xm=\\"x-large\\" xl=\\"x-large\\" color=\\"textColor\\" className=\\"\\" uppercase={false} styles={false}>
+        some owner
+      </BodyCopy>
+      <br className=\\"jsx-413917400\\" />
+      <BodyCopy variant=\\"regular\\" xs=\\"1\\" xm=\\"1\\" xl=\\"1\\" color=\\"textColor\\" className=\\"\\" uppercase={false} styles={false}>
+        some url
+      </BodyCopy>
+    </div>
+  </div>
+  <JSXStyle id=\\"1132374988\\" dynamic={{...}}>
+    .gist-details.__jsx-style-dynamic-selector{margin-top:20px;border:1px solid #c8c8c8;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:10px;border-radius:3px;}.bio.__jsx-style-dynamic-selector{width:100px;height:100px;margin-right:20px;}.bio.__jsx-style-dynamic-selector&gt;img.__jsx-style-dynamic-selector{max-width:100%;border-radius:5px;}
+  </JSXStyle>
+</Fragment>"
+`;

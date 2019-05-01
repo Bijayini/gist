@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Error /> should match with snapshot and should hide loader if loader is present 1`] = `
+"<Fragment>
+  <div className=\\"jsx-2032891786 error\\">
+    <Heading text=\\"Technical Error!!\\" color=\\"warningMessageColor\\" variant=\\"extra-bold\\" level=\\"1\\" className=\\"\\" styles={false} />
+  </div>
+  <JSXStyle id=\\"2032891786\\">
+    .error.jsx-2032891786{text-align:center;margin-top:20px;}
+  </JSXStyle>
+</Fragment>"
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WarningMessage /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-237712953 warning-message\\">
+    <BodyCopy xs=\\"3\\" xm=\\"3\\" xl=\\"3\\" color=\\"warningMessageColor\\" variant=\\"italic\\" className=\\"\\" uppercase={false} styles={false}>
+      random text
+    </BodyCopy>
+  </div>
+  <JSXStyle id=\\"3136427526\\" dynamic={{...}}>
+    .warning-message.__jsx-style-dynamic-selector{background:#fbdae1;padding:10px;text-align:center;}
+  </JSXStyle>
+</Fragment>"
+`;

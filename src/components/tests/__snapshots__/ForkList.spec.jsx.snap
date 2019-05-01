@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ForkList /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-2124877363 fork-container\\">
+    <div className=\\"jsx-2124877363 avatar\\">
+      <img src=\\"some value1\\" alt=\\"image\\" className=\\"jsx-2124877363 fork\\" />
+    </div>
+    <div className=\\"jsx-2124877363 avatar\\">
+      <img src=\\"some value2\\" alt=\\"image\\" className=\\"jsx-2124877363 fork\\" />
+    </div>
+  </div>
+  <JSXStyle id=\\"52773119\\" dynamic={{...}}>
+    .fork-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}.avatar.__jsx-style-dynamic-selector{background:#4a4a4a;margin-right:5px;width:30px;height:30px;}.fork.__jsx-style-dynamic-selector{max-width:100%;border-radius:3px;}
+  </JSXStyle>
+</Fragment>"
+`;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GistList /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-569556867 gist-list-container\\">
+    <div className=\\"jsx-569556867 gist-list\\">
+      <div className=\\"jsx-569556867 id\\">
+        <BodyCopy variant=\\"bold\\" xs=\\"2\\" xm=\\"2\\" xl=\\"2\\" color=\\"textColor\\" className=\\"\\" uppercase={false} styles={false}>
+          some id
+        </BodyCopy>
+      </div>
+      <div className=\\"jsx-569556867 tags\\">
+        <TagList tags={{...}} />
+      </div>
+    </div>
+    <div className=\\"jsx-569556867 gist-list\\">
+      <div className=\\"jsx-569556867 id\\">
+        <BodyCopy variant=\\"bold\\" xs=\\"2\\" xm=\\"2\\" xl=\\"2\\" color=\\"textColor\\" className=\\"\\" uppercase={false} styles={false}>
+          some id2
+        </BodyCopy>
+      </div>
+      <div className=\\"jsx-569556867 forks\\">
+        <ForkList forks={{...}} />
+      </div>
+    </div>
+  </div>
+  <JSXStyle id=\\"1096698853\\" dynamic={{...}}>
+    .gist-list-container.__jsx-style-dynamic-selector{margin-top:20px;border:1px solid #c8c8c8;border-radius:3px;border-bottom:none;}.gist-list.__jsx-style-dynamic-selector{border-bottom:1px solid #c8c8c8;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:10px;}.id.__jsx-style-dynamic-selector{width:40%;}.tags.__jsx-style-dynamic-selector{width:30%;}.forks.__jsx-style-dynamic-selector{width:30%;}
+  </JSXStyle>
+</Fragment>"
+`;

@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Heading /> should match with snapshot with level 1 and extra-bold variant 1`] = `
+"<Fragment>
+  <h1 className=\\"jsx-2198291737 level-1-textColor-extra-bold \\">
+    Hello
+  </h1>
+  <JSXStyle id=\\"1267284431\\" dynamic={{...}}>
+    h1.__jsx-style-dynamic-selector,h2.__jsx-style-dynamic-selector,h3.__jsx-style-dynamic-selector,h4.__jsx-style-dynamic-selector,h5.__jsx-style-dynamic-selector{margin:0;padding:0;font-size:10em;}.level-1-textColor-extra-bold.__jsx-style-dynamic-selector{font-size:1.25rem;font-family: Lato, Sans-Serif;font-weight: 900;color:#4a4a4a;}.level-2-textColor-extra-bold.__jsx-style-dynamic-selector{font-size:1.125rem;font-family: Lato, Sans-Serif;font-weight: 900;color:#4a4a4a;}.level-3-textColor-extra-bold.__jsx-style-dynamic-selector{font-size:0.875rem;font-family: Lato, Sans-Serif;font-weight: 900;color:#4a4a4a;}@media screen and (min-width: 768px){.level-1-textColor-extra-bold.__jsx-style-dynamic-selector{font-size:1.375rem;}.level-2-textColor-extra-bold.__jsx-style-dynamic-selector{font-size:1.25rem;}.level-3-textColor-extra-bold.__jsx-style-dynamic-selector{font-size:0.875rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<Heading /> should match with snapshot with level 2 and regular variant 1`] = `
+"<Fragment>
+  <h2 className=\\"jsx-2389411635 level-2-textColor-regular \\">
+    Hello
+  </h2>
+  <JSXStyle id=\\"1267284431\\" dynamic={{...}}>
+    h1.__jsx-style-dynamic-selector,h2.__jsx-style-dynamic-selector,h3.__jsx-style-dynamic-selector,h4.__jsx-style-dynamic-selector,h5.__jsx-style-dynamic-selector{margin:0;padding:0;font-size:10em;}.level-1-textColor-regular.__jsx-style-dynamic-selector{font-size:1.25rem;font-family: Lato, Sans-Serif;font-weight: normal;color:#4a4a4a;}.level-2-textColor-regular.__jsx-style-dynamic-selector{font-size:1.125rem;font-family: Lato, Sans-Serif;font-weight: normal;color:#4a4a4a;}.level-3-textColor-regular.__jsx-style-dynamic-selector{font-size:0.875rem;font-family: Lato, Sans-Serif;font-weight: normal;color:#4a4a4a;}@media screen and (min-width: 768px){.level-1-textColor-regular.__jsx-style-dynamic-selector{font-size:1.375rem;}.level-2-textColor-regular.__jsx-style-dynamic-selector{font-size:1.25rem;}.level-3-textColor-regular.__jsx-style-dynamic-selector{font-size:0.875rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<Heading /> should match with snapshot with level 3 and bold variant 1`] = `
+"<Fragment>
+  <h3 className=\\"jsx-1872306711 level-3-textColor-bold \\">
+    Hello
+  </h3>
+  <JSXStyle id=\\"1267284431\\" dynamic={{...}}>
+    h1.__jsx-style-dynamic-selector,h2.__jsx-style-dynamic-selector,h3.__jsx-style-dynamic-selector,h4.__jsx-style-dynamic-selector,h5.__jsx-style-dynamic-selector{margin:0;padding:0;font-size:10em;}.level-1-textColor-bold.__jsx-style-dynamic-selector{font-size:1.25rem;font-family: Lato, Sans-Serif;font-weight: 700;color:#4a4a4a;}.level-2-textColor-bold.__jsx-style-dynamic-selector{font-size:1.125rem;font-family: Lato, Sans-Serif;font-weight: 700;color:#4a4a4a;}.level-3-textColor-bold.__jsx-style-dynamic-selector{font-size:0.875rem;font-family: Lato, Sans-Serif;font-weight: 700;color:#4a4a4a;}@media screen and (min-width: 768px){.level-1-textColor-bold.__jsx-style-dynamic-selector{font-size:1.375rem;}.level-2-textColor-bold.__jsx-style-dynamic-selector{font-size:1.25rem;}.level-3-textColor-bold.__jsx-style-dynamic-selector{font-size:0.875rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<Heading /> should match with snapshot with level 3 and default variant 1`] = `
+"<Fragment>
+  <h3 className=\\"jsx-3253502148 level-3-textColor- \\">
+    Hello
+  </h3>
+  <JSXStyle id=\\"1267284431\\" dynamic={{...}}>
+    h1.__jsx-style-dynamic-selector,h2.__jsx-style-dynamic-selector,h3.__jsx-style-dynamic-selector,h4.__jsx-style-dynamic-selector,h5.__jsx-style-dynamic-selector{margin:0;padding:0;font-size:10em;}.level-1-textColor-.__jsx-style-dynamic-selector{font-size:1.25rem;font-family: Lato, Sans-Serif;;color:#4a4a4a;}.level-2-textColor-.__jsx-style-dynamic-selector{font-size:1.125rem;font-family: Lato, Sans-Serif;;color:#4a4a4a;}.level-3-textColor-.__jsx-style-dynamic-selector{font-size:0.875rem;font-family: Lato, Sans-Serif;;color:#4a4a4a;}@media screen and (min-width: 768px){.level-1-textColor-.__jsx-style-dynamic-selector{font-size:1.375rem;}.level-2-textColor-.__jsx-style-dynamic-selector{font-size:1.25rem;}.level-3-textColor-.__jsx-style-dynamic-selector{font-size:0.875rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<Heading /> should match with snapshot with level 3 and light variant 1`] = `
+"<Fragment>
+  <h3 className=\\"jsx-4063421011 level-3-textColor-light \\">
+    Hello
+  </h3>
+  <JSXStyle id=\\"1267284431\\" dynamic={{...}}>
+    h1.__jsx-style-dynamic-selector,h2.__jsx-style-dynamic-selector,h3.__jsx-style-dynamic-selector,h4.__jsx-style-dynamic-selector,h5.__jsx-style-dynamic-selector{margin:0;padding:0;font-size:10em;}.level-1-textColor-light.__jsx-style-dynamic-selector{font-size:1.25rem;font-family: Lato, Sans-Serif;font-weight: 300;color:#4a4a4a;}.level-2-textColor-light.__jsx-style-dynamic-selector{font-size:1.125rem;font-family: Lato, Sans-Serif;font-weight: 300;color:#4a4a4a;}.level-3-textColor-light.__jsx-style-dynamic-selector{font-size:0.875rem;font-family: Lato, Sans-Serif;font-weight: 300;color:#4a4a4a;}@media screen and (min-width: 768px){.level-1-textColor-light.__jsx-style-dynamic-selector{font-size:1.375rem;}.level-2-textColor-light.__jsx-style-dynamic-selector{font-size:1.25rem;}.level-3-textColor-light.__jsx-style-dynamic-selector{font-size:0.875rem;}}
+  </JSXStyle>
+</Fragment>"
+`;

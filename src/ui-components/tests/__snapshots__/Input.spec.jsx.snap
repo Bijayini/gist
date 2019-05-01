@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> should match with snapshot 1`] = `
+"<Fragment>
+  <input type=\\"text\\" id=\\"\\" value=\\"some value\\" onChange={[Function: onChange]} placeholder=\\"some placeholder\\" autoComplete=\\"off\\" className=\\"jsx-1118511121 \\" />
+  <JSXStyle id=\\"365830188\\" dynamic={{...}}>
+    input.__jsx-style-dynamic-selector{width:100%;border:1px solid #c8c8c8;border-radius:3px;padding:5px 10px;font-size:22px;outline:none;font-family:Lato;font-weight:900;}input.hasError.__jsx-style-dynamic-selector{border-color:#be0000;}input.__jsx-style-dynamic-selector::-webkit-input-placeholder{font-family:Lato;font-size:16px;color:#d8d8d8;}input.__jsx-style-dynamic-selector::-moz-placeholder{font-family:Lato;font-size:16px;color:#d8d8d8;}input.__jsx-style-dynamic-selector:-ms-input-placeholder{font-family:Lato;font-size:16px;color:#d8d8d8;}input.__jsx-style-dynamic-selector::placeholder{font-family:Lato;font-size:16px;color:#d8d8d8;}
+  </JSXStyle>
+</Fragment>"
+`;

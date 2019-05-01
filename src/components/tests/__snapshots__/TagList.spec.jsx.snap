@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TagList /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-3617528546 tag-container\\">
+    <div className=\\"jsx-3617528546 tag\\">
+      <BodyCopy variant=\\"regular\\" xs=\\"4\\" xm=\\"4\\" xl=\\"4\\" color=\\"white\\" className=\\"\\" uppercase={false} styles={false}>
+        some tag
+      </BodyCopy>
+    </div>
+    <div className=\\"jsx-3617528546 tag\\">
+      <BodyCopy variant=\\"regular\\" xs=\\"4\\" xm=\\"4\\" xl=\\"4\\" color=\\"white\\" className=\\"\\" uppercase={false} styles={false}>
+        some tag2
+      </BodyCopy>
+    </div>
+  </div>
+  <JSXStyle id=\\"2952745033\\" dynamic={{...}}>
+    .tag-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}.tag.__jsx-style-dynamic-selector{background:#cc1c5d;border-radius:5px;margin-right:5px;padding:1px 5px;}
+  </JSXStyle>
+</Fragment>"
+`;

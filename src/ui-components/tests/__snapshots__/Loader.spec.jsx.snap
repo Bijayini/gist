@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loader /> should match with snapshot 1`] = `
+"<Fragment>
+  <div className=\\"jsx-4235491210 loader-overlay\\">
+    <div className=\\"jsx-4235491210 loader-container\\">
+      <div className=\\"jsx-4235491210 loader\\" />
+    </div>
+  </div>
+  <JSXStyle id=\\"3461739407\\" dynamic={{...}}>
+    .loader-overlay.__jsx-style-dynamic-selector{position:fixed;left:0;right:0;top:0;bottom:0;background-color:rgba(50,50,50,0.95);z-index:999;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.loader-container.__jsx-style-dynamic-selector{width:200px;height:200px;border-radius:8px;box-shadow:0 2px 6px 0 rgba(0, 0, 0, 0.5);background-color:#ffffff;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.loader.__jsx-style-dynamic-selector{border:16px solid #4a4a4a;border-top:16px solid #cc1c5d;border-radius:50%;width:120px;height:120px;-webkit-animation:spin-__jsx-style-dynamic-selector 1.5s linear infinite;animation:spin-__jsx-style-dynamic-selector 1.5s linear infinite;}@-webkit-keyframes spin-__jsx-style-dynamic-selector{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}100%{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}@keyframes spin-__jsx-style-dynamic-selector{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}100%{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}
+  </JSXStyle>
+</Fragment>"
+`;

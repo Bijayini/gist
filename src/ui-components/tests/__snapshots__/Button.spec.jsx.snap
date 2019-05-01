@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should match with snapshot 1`] = `
+"<Fragment>
+  <button type=\\"button\\" onClick={[Function: mockConstructor]} className=\\"jsx-4236284080 button small-button secondary-button  \\">
+     Hello 
+  </button>
+  <JSXStyle id=\\"395053386\\" dynamic={{...}}>
+    .button.__jsx-style-dynamic-selector{font-family:Lato,Sans-Serif;font-weight:normal;font-size:1.125rem;outline:none;border-radius:3px;text-align:center;border:0 none;cursor:pointer;}.primary-button.__jsx-style-dynamic-selector{background-color:#cc1c5d;color:#ffffff;border:1px solid #cc1c5d;}.secondary-button.__jsx-style-dynamic-selector{background-color:#ffffff;color:#cc1c5d;border:1px solid #cc1c5d;}.large-button.__jsx-style-dynamic-selector{width:100%;max-width:300px;height:42px;display:block;margin:0 auto;}.small-button.__jsx-style-dynamic-selector{font-size:20px;padding:6px 18px;}
+  </JSXStyle>
+</Fragment>"
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> should match with snapshot 1`] = `
+"<Fragment>
+  <Header />
+  <div className=\\"jsx-893738437 main-layout\\">
+    <span>
+      Some data
+    </span>
+  </div>
+  <JSXStyle id=\\"893738437\\">
+    @font-face{font-family:Lato,sans-serif;font-display:swap;}html{height:100%;font-size:16px;}body{margin:0;}dl,dt,dd,ul,ol{list-style-type:none;padding:0;margin:0;}p{margin:0;padding:0;}a{background-color:transparent;-webkit-text-decoration:none;text-decoration:none;}button,input{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}html,body{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}input[type=&#39;text&#39;]::-ms-clear{display:none;}*{box-sizing:border-box;}
+  </JSXStyle>
+</Fragment>"
+`;

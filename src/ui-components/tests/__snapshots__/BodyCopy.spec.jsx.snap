@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BodyCopy /> should match with snapshot with level 1 and extra-bold variant 1`] = `
+"<Fragment>
+  <span className=\\"jsx-2222279394 body-copy-white-extra-bold body-xm body-xs body-xl random\\">
+     Hello 
+  </span>
+  <JSXStyle id=\\"742731879\\" dynamic={{...}}>
+    span.__jsx-style-dynamic-selector{;}.body-copy-white-extra-bold.__jsx-style-dynamic-selector{font-family: Lato, Sans-Serif;font-weight: 900;color:#ffffff;}.body-xs.__jsx-style-dynamic-selector{font-size:1.125rem;}@media screen and (min-width: 768px){.body-xm.__jsx-style-dynamic-selector{font-size:1rem;}}@media screen and (min-width: 1248px){.body-xl.__jsx-style-dynamic-selector{font-size:1rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<BodyCopy /> should match with snapshot with level 2 and regular variant 1`] = `
+"<Fragment>
+  <span className=\\"jsx-462673144 body-copy-white-regular body-xm body-xs body-xl random\\">
+     Hello 
+  </span>
+  <JSXStyle id=\\"742731879\\" dynamic={{...}}>
+    span.__jsx-style-dynamic-selector{;}.body-copy-white-regular.__jsx-style-dynamic-selector{font-family: Lato, Sans-Serif;font-weight: normal;color:#ffffff;}.body-xs.__jsx-style-dynamic-selector{font-size:1rem;}@media screen and (min-width: 768px){.body-xm.__jsx-style-dynamic-selector{font-size:1rem;}}@media screen and (min-width: 1248px){.body-xl.__jsx-style-dynamic-selector{font-size:1rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<BodyCopy /> should match with snapshot with level 3 and italic variant 1`] = `
+"<Fragment>
+  <span className=\\"jsx-349263200 body-copy-white- body-xm body-xs body-xl random\\">
+     Hello 
+  </span>
+  <JSXStyle id=\\"742731879\\" dynamic={{...}}>
+    span.__jsx-style-dynamic-selector{;}.body-copy-white-.__jsx-style-dynamic-selector{font-family: Lato, Sans-Serif;;color:#ffffff;}.body-xs.__jsx-style-dynamic-selector{font-size:0.875rem;}@media screen and (min-width: 768px){.body-xm.__jsx-style-dynamic-selector{font-size:1rem;}}@media screen and (min-width: 1248px){.body-xl.__jsx-style-dynamic-selector{font-size:1rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<BodyCopy /> should match with snapshot with level 4 and light variant 1`] = `
+"<Fragment>
+  <span className=\\"jsx-3020890833 body-copy-white-light body-xm body-xs body-xl random\\">
+     Hello 
+  </span>
+  <JSXStyle id=\\"742731879\\" dynamic={{...}}>
+    span.__jsx-style-dynamic-selector{;}.body-copy-white-light.__jsx-style-dynamic-selector{font-family: Lato, Sans-Serif;font-weight: 300;color:#ffffff;}.body-xs.__jsx-style-dynamic-selector{font-size:0.75rem;}@media screen and (min-width: 768px){.body-xm.__jsx-style-dynamic-selector{font-size:1rem;}}@media screen and (min-width: 1248px){.body-xl.__jsx-style-dynamic-selector{font-size:1rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<BodyCopy /> should match with snapshot with level 5 and italic variant 1`] = `
+"<Fragment>
+  <span className=\\"jsx-3378258428 body-copy-white-italic body-xm body-xs body-xl random\\">
+     Hello 
+  </span>
+  <JSXStyle id=\\"742731879\\" dynamic={{...}}>
+    span.__jsx-style-dynamic-selector{;}.body-copy-white-italic.__jsx-style-dynamic-selector{font-family: Lato, Sans-Serif;font-style: italic;color:#ffffff;}.body-xs.__jsx-style-dynamic-selector{font-size:0.5rem;}@media screen and (min-width: 768px){.body-xm.__jsx-style-dynamic-selector{font-size:1rem;}}@media screen and (min-width: 1248px){.body-xl.__jsx-style-dynamic-selector{font-size:1rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
+
+exports[`<BodyCopy /> should match with snapshot with level large and bold variant 1`] = `
+"<Fragment>
+  <span className=\\"jsx-347687786 body-copy-white-bold body-xm body-xs body-xl random\\">
+     Hello 
+  </span>
+  <JSXStyle id=\\"742731879\\" dynamic={{...}}>
+    span.__jsx-style-dynamic-selector{;}.body-copy-white-bold.__jsx-style-dynamic-selector{font-family: Lato, Sans-Serif;font-weight: 700;color:#ffffff;}.body-xs.__jsx-style-dynamic-selector{font-size:1.25rem;}@media screen and (min-width: 768px){.body-xm.__jsx-style-dynamic-selector{font-size:1rem;}}@media screen and (min-width: 1248px){.body-xl.__jsx-style-dynamic-selector{font-size:1rem;}}
+  </JSXStyle>
+</Fragment>"
+`;
